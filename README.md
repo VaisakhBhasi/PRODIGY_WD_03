@@ -5,7 +5,7 @@ This project is a simple Tic-Tac-Toe Web Application developed using HTML, CSS, 
 ## Features
 
 - **Player vs. Player**: Play Tic-Tac-Toe with another person.
-- **Player vs. AI**: Play against an AI opponent.
+- **Player vs. AI**: Play against an opponent.
 - **Winning Conditions**: Automatically detects and announces the winner or a draw.
 - **Restart Game**: Provides an option to restart the game after it ends.
 
